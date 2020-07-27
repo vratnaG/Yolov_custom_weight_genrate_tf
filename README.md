@@ -7,4 +7,5 @@
 #you the only correct the directory if you chnage the location of weight file.
 
 https://colab.research.google.com/drive/1N6OsjjC6l1wI_OlyXe2Ct9MtRnFAFOQ3?usp=sharing
+https://drive.google.com/file/d/1N6OsjjC6l1wI_OlyXe2Ct9MtRnFAFOQ3/view?usp=sharing
 
